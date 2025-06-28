@@ -19,21 +19,18 @@ A Windows batch multitool with various utilities including IP lookup, port scann
 - Discord webhook message sender
 - And more...
 
-## Usage
+## ⚙️Usage
 
 Run `ninja-tool.bat` in a Windows environment. Enter the key when prompted (`ninjaisthebest`).
 
-## Requirements
+## 🖥️Requirements
 
 - Windows OS
 - PowerShell (for port scanning and webhook sending)
 - curl (for HTTP requests)
 
-## Disclaimer
 
-This tool is for educational purposes only. Use responsibly and only on systems you own or have permission to test.
-
-## Author
+## 👤Author
 
 Ninja
 
@@ -41,3 +38,6 @@ Ninja
 
 MIT License
 
+## Disclaimer
+
+This tool is for educational purposes only. Use responsibly and only on systems you own or have permission to test.
