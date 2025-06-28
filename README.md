@@ -1,3 +1,3 @@
 # Ninja
 
-![Image](https://github.com/user-attachments/assets/a0e33777-47f7-42b5-99e2-0317b7aaf594)
+![image](https://github.com/user-attachments/assets/9c04cd64-ade5-42b1-ad7a-42c40aef044b)
